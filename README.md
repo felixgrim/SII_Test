@@ -30,7 +30,7 @@ DoD:
 - [ ] **Docker** - containler services builder/publisher
 - [ ] **Swagger** - UI provides a display framework that reads an OpenAPI specification document and generates an interactive documentation website 
 - [ ] **Api Version** - assing api version per controller
-- [ ] **Task Job** - task that will read some file data 
+- [ ] **Task Job** - task that will read some files data every 5 min. 
 - [ ] **Logging provider** - add impl. of some basic logger
 - [ ] **RabitMQ** - message broker
 
