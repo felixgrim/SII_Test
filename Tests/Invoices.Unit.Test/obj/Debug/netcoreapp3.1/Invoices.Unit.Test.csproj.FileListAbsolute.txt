@@ -1,0 +1,9 @@
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\bin\Debug\netcoreapp3.1\Invoices.Unit.Test.deps.json
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\bin\Debug\netcoreapp3.1\Invoices.Unit.Test.dll
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\bin\Debug\netcoreapp3.1\Invoices.Unit.Test.pdb
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\obj\Debug\netcoreapp3.1\Invoices.Unit.Test.csprojAssemblyReference.cache
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\obj\Debug\netcoreapp3.1\Invoices.Unit.Test.AssemblyInfoInputs.cache
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\obj\Debug\netcoreapp3.1\Invoices.Unit.Test.AssemblyInfo.cs
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\obj\Debug\netcoreapp3.1\Invoices.Unit.Test.csproj.CoreCompileInputs.cache
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\obj\Debug\netcoreapp3.1\Invoices.Unit.Test.dll
+E:\SII_Interview\Backend\Tests\Invoices.Unit.Test\obj\Debug\netcoreapp3.1\Invoices.Unit.Test.pdb

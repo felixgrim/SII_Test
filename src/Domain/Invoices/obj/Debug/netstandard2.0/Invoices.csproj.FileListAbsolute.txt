@@ -1,0 +1,9 @@
+E:\SII_Interview\Backend\src\Domain\Invoices\bin\Debug\netstandard2.0\Invoices.deps.json
+E:\SII_Interview\Backend\src\Domain\Invoices\bin\Debug\netstandard2.0\Invoices.dll
+E:\SII_Interview\Backend\src\Domain\Invoices\bin\Debug\netstandard2.0\Invoices.pdb
+E:\SII_Interview\Backend\src\Domain\Invoices\obj\Debug\netstandard2.0\Invoices.csprojAssemblyReference.cache
+E:\SII_Interview\Backend\src\Domain\Invoices\obj\Debug\netstandard2.0\Invoices.AssemblyInfoInputs.cache
+E:\SII_Interview\Backend\src\Domain\Invoices\obj\Debug\netstandard2.0\Invoices.AssemblyInfo.cs
+E:\SII_Interview\Backend\src\Domain\Invoices\obj\Debug\netstandard2.0\Invoices.csproj.CoreCompileInputs.cache
+E:\SII_Interview\Backend\src\Domain\Invoices\obj\Debug\netstandard2.0\Invoices.dll
+E:\SII_Interview\Backend\src\Domain\Invoices\obj\Debug\netstandard2.0\Invoices.pdb
