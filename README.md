@@ -1,14 +1,15 @@
 #  Test Dev skills
  This project is just to verify your skills in knowledge:
 - S.O.L.I.D
-- WebAi
-- Storage devices
+- WebApi
+- Storage data
 - DDD
 - CQRS
 - Testing
 - Scalling
 - Performance
-- Git flow 
+- Git flow
+- Async operations
 
 DoD:
  - Design domain model
