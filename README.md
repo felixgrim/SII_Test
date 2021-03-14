@@ -1,4 +1,6 @@
 #  Test Dev skills
+*Please note: X checked are marked as mandatory*
+
  This project is just to verify your skills in knowledge:
 - S.O.L.I.D
 - WebApi
@@ -22,16 +24,16 @@ DoD:
  - Create unit test
 
 ## Stack technology -
-- [ ] **DDD** - Domain Driven Design architecture implementation
-- [ ] **CQRS** - Command Query Responsibility Segregation command patern 
-- [ ] **WebApi** - Service in .Net Core Framework
+- [x] **DDD** - Domain Driven Design architecture implementation
+- [x] **CQRS** - Command Query Responsibility Segregation command patern 
+- [x] **WebApi** - Service in .Net Core Framework
 - [ ] **JWT Authorize** - Json Web Token authorization
-- [ ] **NUnit Test** - integration,e2 and unit tests  
-- [ ] **Docker** - containler services builder/publisher
+- [x] **NUnit Test** - integration,e2 and unit tests  
+- [x] **Docker** - containler services builder/publisher
 - [ ] **Swagger** - UI provides a display framework that reads an OpenAPI specification document and generates an interactive documentation website 
 - [ ] **Api Version** - assing api version per controller
-- [ ] **Task Job** - task that will read some files data every 5 min. 
-- [ ] **Logging provider** - add impl. of some basic logger
+- [x] **Task Job** - task that will read some files data every 5 min. 
+- [x] **Logging provider** - add impl. of some basic logger
 - [ ] **RabitMQ** - message broker
 
 ## Database
