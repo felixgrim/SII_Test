@@ -1,5 +1,5 @@
 #  Test Dev skills
-*Please note: X checked are marked as mandatory*
+*Please note: X checked are marked as mandatory. Please clone this repository.*
 
  This project is just to verify your skills in knowledge:
 - S.O.L.I.D
